@@ -1,0 +1,22 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Hands-on JavaScript lessons, one small runnable file per episode.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "ep": "node scripts/run-episode.js",
+    "check": "node scripts/check-all.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["javascript", "tutorial", "lessons", "nodejs"],
+  "author": "紅梅 (https://github.com/redplum701)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redplum701/study.git"
+  },
+  "homepage": "https://github.com/redplum701/study#readme"
+}
